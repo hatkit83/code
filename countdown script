@@ -1,0 +1,13 @@
+
+//countdown head
+
+<!--- countdown --->
+<script src="code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="js/timer.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+javascript_countdown.init(290,"minutes","seconds");
+</script>
+<!--- countdown --->
+
+//countdown body
+This is a countdown <strong style="color:#e51b1b;"><span class="js_timer"></span></strong> remaining
