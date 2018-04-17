@@ -1,4 +1,5 @@
 //disable-landers head
+
 <script type="text/javascript" language="javascript">
 	var areYouReallySure = false;
 	var internalLink = false;
